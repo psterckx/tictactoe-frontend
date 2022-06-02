@@ -1,6 +1,6 @@
 
 <template>
-  <div class="flex flex-col justify-between h-screen bb">
+  <div class="flex flex-col justify-between h-screen">
     <div>
       <h1 class="my-6 text-2xl md:text-4xl flex justify-center italic">
         Tic Tac Toe
