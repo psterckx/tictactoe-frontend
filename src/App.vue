@@ -109,7 +109,7 @@
         >
       </div>
       <a
-        href=""
+        href="https://gist.github.com/psterckx/b40040d5abe9e218ebd6849527389968"
         class="flex text-center justify-center space-x-2 hover:text-gray-900"
       >
         <GitHubIcon />
